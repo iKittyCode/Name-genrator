@@ -1,0 +1,22 @@
+{
+  "name": "name-genrator",
+  "version": "1.0.0",
+  "description": "This is my name genrator",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iKittyCode/Name-genrator.git"
+  },
+  "keywords": [
+    "Okay"
+  ],
+  "author": "SYON",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iKittyCode/Name-genrator/issues"
+  },
+  "homepage": "https://github.com/iKittyCode/Name-genrator#readme"
+}
