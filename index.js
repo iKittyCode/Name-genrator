@@ -13,4 +13,4 @@ var names = ['Chooni', 'Daddy', 'Mommy', 'Arshya', 'Kittu']
     }, 1000)
     setTimeout(() => {
     exit()
-    }, 10000)
+    }, 8000)
