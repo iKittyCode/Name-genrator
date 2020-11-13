@@ -1,3 +1,4 @@
+//This is for the names it should pick
 var names = ['Chooni', 'Daddy', 'Mommy', 'Arshya', 'Kittu']
 
     console.log("❤🐱🦐⚒💻📱")
