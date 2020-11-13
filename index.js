@@ -1,12 +1,16 @@
 //This is for the names it should pick
 
+const { exit } = require("process")
+
 var names = ['Chooni', 'Daddy', 'Mommy', 'Arshya', 'Kittu']
 
     console.log("❤🐱🦐⚒💻📱")
     console.log("☼")
-    for (var i = 0; i < 20; i++) {
+    
+    setInterval(() => {
     console.log(names[Math.floor(Math.random() * names.length)])
-    }
-    //setInterval(() => {
-    //console.log(names[Math.floor(Math.random() * names.length)])
-    //}, 1000)
+    
+    }, 1000)
+    setTimeout(() => {
+    exit()
+    }, 10000)
