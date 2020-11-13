@@ -1,4 +1,5 @@
 //This is for the names it should pick
+var library = require('function.js')
 var names = ['Chooni', 'Daddy', 'Mommy', 'Arshya', 'Kittu']
 
     console.log("❤🐱🦐⚒💻📱")
