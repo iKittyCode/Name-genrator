@@ -1,2 +1,2 @@
 # Name genrator
-This is my thing that picks a random name from and array
+This is my thing that picks a random name from and array of names
